@@ -1,5 +1,6 @@
 # hello-world
-Tutorial
+my first try at GitHub
+
 Testing issues and other things to start using GitHub
 
 
